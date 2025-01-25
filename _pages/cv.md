@@ -28,24 +28,26 @@ Work experience
   * Duties included: Creating AI templates to Verify the Authenticity of Latters Issued by each Ministry
   * Supervisor: Dr. PHUAK Sokkey
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2023-Jan 2024: Digitial Divide Data Cambodia
+  * Safety Anomaly
+  * Duties included: Data entry, enter data in to Database Systems to create a Car Model that can Drive Automatically
   
 Skills
 ======
 * Programming Skills:
-  * Python
-  * R studio
-  * SQL
+  * Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch
+  * R studio: ggplot2, dplyr, caret, Shiny
+  * SQL: Essential for querying and manipulating databases
 * Mathematics and Statistics:
   * Probabilistic and Statistics: Understanding concepts like probability distributions, hypothesis testing, p-values, and confidence intervals.
-  * Linear Algebra: For handling matrices and working with algorithms like Principal Component Analysis (PCA) or Singular Value Decomposition (SVD).
-  * Calculus: Important for understanding optimization in machine learning models, particularly in gradient descent algorithms.
+  * Linear Algebra: For handling matrices and working with algorithms like Principal Component Analysis (PCA) 
+  or Singular Value Decomposition (SVD).
+  * Calculus: Important for understanding optimization in machine learning models, particularly in gradient 
+  descent algorithms.
 * Machine Learning (ML) and Deep Learning (DL):
   * Supervised Learning: Techniques like linear regression, decision trees, support vector machines (SVM), k-nearest neighbors (KNN), random forests
-  * Unsupervised Learning: Clustering (k-means, hierarchical), anomaly detection, dimensionality reduction (PCA, t-SNE)
+  * Unsupervised Learning: Clustering (k-means, hierarchical), anomaly detection, dimensionality reduction 
+  (PCA, t-SNE)
   * Deep Learning: Neural networks, CNNs (for image data), RNNs (for sequential data), and architectures like transformers.
   * Model Evaluation: Cross-validation, ROC curves, precision-recall, confusion matrices, and bias-variance trade-off.
 * Soft Skills:
