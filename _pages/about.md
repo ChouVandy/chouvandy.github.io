@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently studying as a students at [Institute of Teachnology of Cambodia(ITC)](http://itc.edu.kh/fr/).
+
+I has been an intership at [Ministry of Post and Communication(MPC)](https://mptc.gov.kh/en/). I were getting a task to do on webscriping. I had scriped the documents from the Ministrie in Cambodia. My goal is build Model to detect documents automaticaly. In 2024, I has been an intership at [Ministry of Education Youth and Sports(MEYS)](https://moeys.gov.kh/en). I did a report that related to the primary education departement. The result of my intership at MEYS is to Analysis of refresher training on early grade learning packages. I have an experience to be an employee. I were a data entry. I need to inter data into the Database. [Digital Divided Data Cambodia(DDD)](https://www.digitaldividedata.com).
 
 A data-driven personal website
 ======
