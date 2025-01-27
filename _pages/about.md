@@ -6,10 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently pursuing my studies at the [Institute of Teachnology of Cambodia(ITC)](http://itc.edu.kh/fr/), where I have developed a strong foundation in technology and data analysis. My academic journey has been complemented by practical experiences through internships, which have allowed me to apply my skills in real-world scenarios and contribute to impactful projects.
 
-I am currently studying as a students at [Institute of Teachnology of Cambodia(ITC)](http://itc.edu.kh/fr/).
+During my internship at the [Ministry of Post and Communication(MPC)](https://mptc.gov.kh/en/), I worked on an exciting web scraping project. My primary task was to extract documents from various ministries across Cambodia. This experience honed my technical skills and inspired my goal of building a model that can automatically detect and categorize documents, streamlining data management processes.
 
-I has been an intership at [Ministry of Post and Communication(MPC)](https://mptc.gov.kh/en/). I were getting a task to do on webscriping. I had scriped the documents from the Ministrie in Cambodia. My goal is build Model to detect documents automaticaly. In 2024, I has been an intership at [Ministry of Education Youth and Sports(MEYS)](https://moeys.gov.kh/en). I did a report that related to the primary education departement. The result of my intership at MEYS is to Analysis of refresher training on early grade learning packages. I have an experience to be an employee. I were a data entry. I need to inter data into the Database. [Digital Divided Data Cambodia(DDD)](https://www.digitaldividedata.com).
+In 2024, I joined the [Ministry of Education Youth and Sports(MEYS)](https://moeys.gov.kh/en) for an internship that focused on analyzing refresher training activities related to early-grade learning packages under the Primary Education Department. This project required me to analyze complex datasets and generate meaningful insights, reinforcing my passion for data analysis and its potential to drive informed decision-making in education.
+
+In addition to these internships, I have professional experience as a data entry employee at [Digital Divide Data (DDD)](https://www.digitaldividedata.com). My role involved accurately inputting large volumes of data into databases, which improved my attention to detail and understanding of data management systems.
+
+These experiences have shaped my aspirations to continue leveraging data and technology to solve pressing challenges and contribute to meaningful innovations in Cambodia and beyond.
 
 A data-driven personal website
 ======

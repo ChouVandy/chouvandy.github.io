@@ -30,7 +30,7 @@ Work experience
 
 * Jun 2023-Jan 2024: Digitial Divide Data Cambodia
   * Safety Anomaly
-  * Duties included: Data entry, enter data in to Database Systems to create a Car Model that can Drive Automatically
+  * Duties included: Data entry, enter data in to Database Systems to create a Car Model that can Drive Automatically.
   
 Skills
 ======
