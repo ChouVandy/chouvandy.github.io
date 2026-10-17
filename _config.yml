@@ -54,21 +54,21 @@ author:
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/share/1GJoDjcPAi/?mibextid=wwXIfr" #Username
+  facebook         : "share/1GJoDjcPAi" #Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/chou.vandy.96/" # Username
+  instagram        : "chou.vandy.96" # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/chou-vandy-6388a3437/" # Username
+  linkedin         : "in/chou-vandy-6388a3437" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "https://t.me/choujuju" # URL
+  telegram         : "choujuju" # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
