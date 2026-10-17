@@ -6,7 +6,6 @@ author_profile: false
 ---
 
 <style>
-  /* លាក់ Header ដើមដើម្បីកុំឱ្យជាន់គ្នា */
   .page__title { display: none !important; }
 
   .hero-banner {
@@ -50,6 +49,30 @@ author_profile: false
     align-items: center;
     gap: 10px;
   }
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  .stat-card {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+  }
+  .stat-number {
+    font-size: 1.8em;
+    font-weight: 800;
+    color: #2563eb;
+    margin-bottom: 5px;
+  }
+  .stat-label {
+    font-size: 0.9em;
+    color: #64748b;
+    font-weight: 600;
+  }
   .btn-map {
     display: inline-flex;
     align-items: center;
@@ -78,6 +101,11 @@ author_profile: false
   .back-link:hover {
     color: #2563eb;
   }
+  .content-text {
+    color: #4b5563;
+    line-height: 1.8;
+    margin-bottom: 10px;
+  }
 </style>
 
 <a href="/education/" class="back-link">&larr; ត្រឡប់ទៅកាន់ Education</a>
@@ -89,27 +117,55 @@ author_profile: false
   </div>
   <h1 class="hero-title">សាលាបឋមសិក្សា ហ៊ុន សែន អូរច្រា</h1>
   <p class="hero-subtitle">
-    📍 សង្កាត់ទួលល្វា ក្រុងប៉ៃលិន ខេត្តប៉ៃលិន
+    📍 សង្កាត់ទួលល្វា ក្រុងប៉ៃលិន ខេត្តប៉ៃលិន[cite: 1] &nbsp;|&nbsp; 📅 ឆ្នាំសិក្សា៖ ២០២៥-២០២៦
   </p>
 </div>
 
-<!-- ផ្នែកទីតាំង & Google Maps -->
+<!-- ស្ថិតិសាលារៀន (Stats Cards) -->
 <div class="info-section">
-  <h2 class="section-heading">
-    📍 ទីតាំងសាលារៀន និងផែនទី (Location & Google Maps)
-  </h2>
+  <h2 class="section-heading">📊 ស្ថិតិ និងទិន្នន័យក្នុងឆ្នាំសិក្សា ២០២៥-២០២៦</h2>
   
-  <p style="color: #4b5563; line-height: 1.6; margin-bottom: 20px;">
-    សាលាបឋមសិក្សា ហ៊ុន សែន អូរច្រា ស្ថិតនៅក្នុងភូមិសាស្ត្រសង្កាត់ទួលល្វា ក្រុងប៉ៃលិន ខេត្តប៉ៃលិន។ អ្នកអាចមើលទីតាំងផ្ទាល់នៅលើផែនទីខាងក្រោម ឬចុចប៊ូតុងដើម្បីបើកក្នុង Google Maps App៖
-  </p>
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-number">13</div>
+      <div class="stat-label">បុគ្គលិកសរុប</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">11</div>
+      <div class="stat-label">ចំនួនថ្នាក់រៀន</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">353</div>
+      <div class="stat-label">សិស្សសរុប</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">169</div>
+      <div class="stat-label">សិស្សស្រី</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">10</div>
+      <div class="stat-label">គ្រូបង្រៀន</div>
+    </div>
+  </div>
 
+  <p class="content-text"><strong>ថ្នាក់ដឹកនាំ និងរដ្ឋបាល៖</strong></p>
+  <ul style="color: #4b5563; line-height: 1.8; padding-left: 20px;">
+    <li><strong>នាយកសាលា៖</strong> លោកគ្រូ/អ្នកគ្រូ អ៊ិន សុជាតា</li>
+    <li><strong>បុគ្គលិកផ្នែករដ្ឋបាល/បណ្ណារក្ស (មិនបង្រៀនផ្ទាល់)៖</strong> ៣ នាក់</li>
+  </ul>
+</div>
+
+<!-- ផ្នែកទីតាំង និង Google Maps ដាក់នៅខាងក្រោមสุด -->
+<div class="info-section">
+  <h2 class="section-heading">📍 ទីតាំងសាលារៀន និងផែនទី (Location & Google Maps)</h2>
+  <p class="content-text">
+    សាលាបឋមសិក្សា ហ៊ុន សែន អូរច្រា ស្ថិតក្នុងសង្កាត់ទួលល្វា ក្រុងប៉ៃលិន ខេត្តប៉ៃលិន[cite: 1]។ អ្នកអាចមើលទីតាំងផ្ទាល់នៅលើផែនទីខាងក្រោម៖
+  </p>
   <div style="margin-bottom: 20px;">
     <a href="https://www.google.com/maps?q=12.868259700644147,102.58326767742632" target="_blank" class="btn-map">
       🚀 បើកមើលក្នុង Google Maps 
     </a>
   </div>
-
-  <!-- Embedded Google Maps -->
   <div style="overflow: hidden; border-radius: 12px; border: 1px solid #e5e7eb;">
     <iframe 
       src="https://www.google.com/maps?q=12.868259700644147,102.58326767742632&output=embed" 
@@ -120,14 +176,4 @@ author_profile: false
       loading="lazy">
     </iframe>
   </div>
-</div>
-
-<!-- ផ្នែករូបភាព (ត្រៀមទុក) -->
-<div class="info-section">
-  <h2 class="section-heading">
-    🖼️ រូបភាពសាលារៀន និងសកម្មភាព (Gallery)
-  </h2>
-  <p style="color: #6b7280; font-style: italic;">
-    (រូបភាពសាលានឹងត្រូវដាក់បង្ហាញនៅទីនេះ...)
-  </p>
 </div>
