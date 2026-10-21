@@ -110,7 +110,7 @@ author_profile: false
 
   <!-- រូបភាពបញ្ជីឈ្មោះប្រឡងជាប់ (Enrollment.JPG) ដាក់នៅទីនេះ -->
   <div class="img-container">
-    <img src="{{ '/images/Enrollment.jpg' | relative_url }}" alt="បញ្ជីឈ្មោះប្រឡងជាប់ ITC">
+    <img src="{{ '/images/Enrollment.JPG' | relative_url }}" alt="បញ្ជីឈ្មោះប្រឡងជាប់ ITC">
     <div class="img-caption">បញ្ជីឈ្មោះផ្លូវការក្នុងការប្រឡងជាប់ចូលសិក្សានៅ ITC (Enrollment)</div>
   </div>
 
