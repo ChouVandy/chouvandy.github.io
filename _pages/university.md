@@ -83,14 +83,14 @@ author_profile: false
   </div>
   <h1 class="hero-title">វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC)</h1>
   <p class="hero-subtitle">
-    ជំនាញ គណិតវិទ្យាអនុវត្ត និងស្ថិតិ (Applied Mathematics & Statistics) - វិទ្យាសាស្ត្រទិន្នន័យ (Data Science)
+    ដេប៉ាតឺម៉ងគណិតវិទ្យាអនុវត្ត និងស្ថិតិ (Applied Mathematics & Statistics) - វិទ្យាសាស្ត្រទិន្នន័យ (Data Science)
   </p>
 </div>
 
 <!-- រូបភាព FamilyAMS.JPG ដាក់ផ្នែកខាងលើគេបង្អស់ លើផ្នែកទី១ -->
 <div class="img-container" style="margin-bottom: 35px;">
   <img src="{{ '/images/FamilyAMS.JPG' | relative_url }}" alt="Family AMS ITC">
-  <div class="img-caption">គ្រួសារ និងសមាជិកជំនាញ Applied Mathematics and Statistics (AMS) វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា</div>
+  <div class="img-caption">គ្រួសារ Applied Mathematics and Statistics (AMS) វិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា</div>
 </div>
 
 <!-- ផ្នែកទី ១៖ ការជ្រើសរើសគ្រឹះស្ថានឧត្តមសិក្សា -->
@@ -117,7 +117,7 @@ author_profile: false
   <!-- រូបភាពបញ្ជីឈ្មោះប្រឡងជាប់ (Enrollment.JPG) -->
   <div class="img-container">
     <img src="{{ '/images/Enrollment.JPG' | relative_url }}" alt="បញ្ជីឈ្មោះប្រឡងជាប់ ITC">
-    <div class="img-caption">បញ្ជីឈ្មោះផ្លូវការក្នុងការប្រឡងជាប់ចូលសិក្សានៅ ITC (Enrollment)</div>
+    <div class="img-caption">បញ្ជីឈ្មោះផ្លូវការក្នុងការប្រឡងជាប់ចូលសិក្សានៅ ITC</div>
   </div>
 
   <p class="content-text">
@@ -130,7 +130,7 @@ author_profile: false
   <!-- រូបភាពលទ្ធផលអាហារូបករណ៍ (GotScolaSchip.JPG) -->
   <div class="img-container">
     <img src="{{ '/images/GotScolaSchip.JPG' | relative_url }}" alt="បញ្ជីឈ្មោះទទួលបានអាហារូបករណ៍">
-    <div class="img-caption">បញ្ជីឈ្មោះនិស្សិតទទួលបានអាហារូបករណ៍ប្រចាំឆ្នាំ</div>
+    <div class="img-caption">បញ្ជីឈ្មោះនិស្សិតទទួលបានអាហារូបករណ៍ឆ្នាំ ២០២០~២០២១</div>
   </div>
 </div>
 
@@ -153,7 +153,7 @@ author_profile: false
   <!-- រូបភាពទី ៣.១: ChalengeI3.JPG (ដាក់ក្រោមឃ្លាការជួបការលំបាក) -->
   <div class="img-container">
     <img src="{{ '/images/ChalengeI3.JPG' | relative_url }}" alt="ការប្រឈមមុខនឹងការលំបាកឆ្នាំទី៣">
-    <div class="img-caption">ការប្រឈមមុខ និងការដោះស្រាយបញ្ហាប្រឈមក្នុងដំណាក់កាលសិក្សាឆ្នាំទី៣</div>
+    <div class="img-caption">ការប្រឈមមុខ និងការដោះស្រាយបញ្ហាក្នុងឆ្នាំទី៣</div>
   </div>
 
   <p class="content-text">
@@ -163,7 +163,7 @@ author_profile: false
   <!-- រូបភាពទី ៣.២: ClassActiveI4.JPG (ដាក់កន្លែងសិស្សមានការរៀនសូត្រ) -->
   <div class="img-container">
     <img src="{{ '/images/ClassActiveI4.JPG' | relative_url }}" alt="សកម្មភាពរៀនសូត្ររបស់សិស្ស">
-    <div class="img-caption">សកម្មភាពសិក្សា និងកិច្ចសហការគ្នារបស់និស្សិតក្នុងថ្នាក់រៀន</div>
+    <div class="img-caption">រូបថតជុំគ្នាក្រោយបញ្ចប់ការសាក់ល្បងការពារសារណាក្នុងឆ្នាំទី៤</div>
   </div>
 
   <p class="content-text">
@@ -173,6 +173,6 @@ author_profile: false
   <!-- រូបភាពទី ៣.៣: AMSPhotos.JPG -->
   <div class="img-container">
     <img src="{{ '/images/AMSPhotos.JPG' | relative_url }}" alt="ការសិក្សាជំនាញ Data Science និង AMS">
-    <div class="img-caption">บรรยากาศការសិក្សា និងជួបជុំនិស្សិតជំនាញ Applied Mathematics and Statistics (AMS) នៅ ITC</div>
+    <div class="img-caption">រូបថតជួបជុំនិស្សិតគ្រប់ជំនាន Applied Mathematics and Statistics (AMS) នៅ ITC</div>
   </div>
 </div>
