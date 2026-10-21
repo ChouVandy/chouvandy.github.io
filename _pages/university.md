@@ -61,6 +61,31 @@ author_profile: false
     margin-top: 8px;
     font-style: italic;
   }
+
+  /* Custom Table Style for Academic Results */
+  .academic-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 0.95em;
+    background: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  .academic-table th, .academic-table td {
+    padding: 12px 15px;
+    text-align: center;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .academic-table th {
+    background-color: #007acc;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .academic-table tr:hover {
+    background-color: #f9fafb;
+  }
   
   .back-link { 
     display: inline-flex; 
@@ -173,6 +198,70 @@ author_profile: false
   <!-- រូបភាពទី ៣.៣: AMSPhotos.JPG -->
   <div class="img-container">
     <img src="{{ '/images/AMSPhotos.JPG' | relative_url }}" alt="ការសិក្សាជំនាញ Data Science និង AMS">
-    <div class="img-caption">រូបថតជួបជុំនិស្សិតគ្រប់ជំនាន Applied Mathematics and Statistics (AMS) នៅ ITC</div>
+    <div class="img-caption">រូបថតជួបជុំនិស្សិតគ្រប់ជំនាន់ Applied Mathematics and Statistics (AMS) នៅ ITC</div>
   </div>
+</div>
+
+<!-- ផ្នែកទី ៤៖ លទ្ធផលសិក្សា និងបទពិសោធន៍នៃការចុះកម្មសិក្សា -->
+<div class="info-section">
+  <h2 class="section-heading">📊 ៤. លទ្ធផលសិក្សា និងបទពិសោធន៍នៃការចុះកម្មសិក្សា</h2>
+  
+  <h3 style="font-size: 1.15em; font-weight: 700; color: #1f2937; margin-top: 15px; margin-bottom: 12px;">៤.១. លទ្ធផលសិក្សា</h3>
+  
+  <p class="content-text">
+    កម្មវិធីសិក្សានៅវិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC) ត្រូវបានបែងចែកជាពីរដំណាក់កាលសំខាន់ៗ គឺការសិក្សាមូលដ្ឋាន និងការសិក្សាជំនាញឯកទេស។
+  </p>
+  <p class="content-text">
+    ្នុងរយៈពេលពីរឆ្នាំដំបូង ការសិក្សាមូលដ្ឋានមានមុខវិជ្ជាសរុបចំនួន ១៩ មុខវិជ្ជា ស្មើនឹង ៤៥ ក្រេឌីត។ ដំណាក់កាលនេះបានជួយពង្រឹងមូលដ្ឋានចំណេះដឹង និងអភិវឌ្ឍសមត្ថភាពគិតវិភាគក្នុងទិដ្ឋភាពទូលំទូលាយ ដែលជាមូលដ្ឋានសម្រាប់ការបន្តសិក្សាក្នុងជំនាញឯកទេស។
+  </p>
+  <p class="content-text">
+    បន្ទាប់ពីបញ្ចប់ការសិក្សាមូលដ្ឋាន ខ្ញុំបានបន្តការសិក្សាជំនាញឯកទេសក្នុងរយៈពេលបីឆ្នាំ ដោយមានមុខវិជ្ជាសរុបចំនួន ៣៤ មុខវិជ្ជា ស្មើនឹង ៩០ ក្រេឌីត។ ដំណាក់កាលនេះផ្តោតលើការសិក្សាស៊ីជម្រៅទាក់ទងនឹងការដោះស្រាយបញ្ហា ការសិក្សាទ្រឹស្តី ការពិសោធន៍ និងការអនុវត្តចំណេះដឹងទៅលើបញ្ហាជាក់ស្តែង។ តាមរយៈការសិក្សាទាំងពីរដំណាក់កាលនេះ ខ្ញុំបានពង្រឹងមូលដ្ឋានចំណេះដឹង និងអភិវឌ្ឍសមត្ថភាពដែលចាំបាច់សម្រាប់ការសិក្សា និងការងារក្នុងវិស័យវិទ្យាសាស្ត្រទិន្នន័យ។
+  </p>
+  <p class="content-text">
+    ខាងក្រោមនេះ គឺជាសេចក្តីសង្ខេបលទ្ធផលសិក្សាប្រចាំឆ្នាំរបស់ខ្ញុំ ដោយផ្អែកលើតារាងពិន្ទុសិក្សា (Academic Transcript)៖
+  </p>
+
+  <!-- តារាងសង្ខេបលទ្ធផលសិក្សា -->
+  <table class="academic-table">
+    <thead>
+      <tr>
+        <th>ឆ្នាំសិក្សា</th>
+        <th>ចំនួនមុខវិជ្ជា</th>
+        <th>ក្រេឌីត</th>
+        <th>GPA</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ឆ្នាំទី១</td>
+        <td>១១</td>
+        <td>២៥</td>
+        <td>៤.០០</td>
+      </tr>
+      <tr>
+        <td>ឆ្នាំទី២</td>
+        <td>៨</td>
+        <td>២០</td>
+        <td>២.៥០</td>
+      </tr>
+      <tr>
+        <td>ឆ្នាំទី៣</td>
+        <td>១៣</td>
+        <td>៣០</td>
+        <td>២.០០</td>
+      </tr>
+      <tr>
+        <td>ឆ្នាំទី៤</td>
+        <td>១១</td>
+        <td>៣១</td>
+        <td>៣.០០</td>
+      </tr>
+      <tr>
+        <td>ឆ្នាំទី៥</td>
+        <td>១០</td>
+        <td>២៩</td>
+        <td>៣.០០</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
