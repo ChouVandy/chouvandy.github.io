@@ -218,50 +218,92 @@ author_profile: false
     បន្ទាប់ពីបញ្ចប់ការសិក្សាមូលដ្ឋាន ខ្ញុំបានបន្តការសិក្សាជំនាញឯកទេសក្នុងរយៈពេលបីឆ្នាំ ដោយមានមុខវិជ្ជាសរុបចំនួន ៣៤ មុខវិជ្ជា ស្មើនឹង ៩០ ក្រេឌីត។ ដំណាក់កាលនេះផ្តោតលើការសិក្សាស៊ីជម្រៅទាក់ទងនឹងការដោះស្រាយបញ្ហា ការសិក្សាទ្រឹស្តី ការពិសោធន៍ និងការអនុវត្តចំណេះដឹងទៅលើបញ្ហាជាក់ស្តែង។ តាមរយៈការសិក្សាទាំងពីរដំណាក់កាលនេះ ខ្ញុំបានពង្រឹងមូលដ្ឋានចំណេះដឹង និងអភិវឌ្ឍសមត្ថភាពដែលចាំបាច់សម្រាប់ការសិក្សា និងការងារក្នុងវិស័យវិទ្យាសាស្ត្រទិន្នន័យ។
   </p>
   <p class="content-text">
-    ខាងក្រោមនេះ គឺជាសេចក្តីសង្ខេបលទ្ធផលសិក្សាប្រចាំឆ្នាំ(Academic Transcript)៖
+    ខាងក្រោមនេះ គឺជាសេចក្តីសង្ខេបលទ្ធផលសិក្សាប្រចាំឆ្នាំ (Academic Transcript)៖
   </p>
 
   <!-- តារាងសង្ខេបលទ្ធផលសិក្សា -->
-  <table class="academic-table">
+  <table class="academic-table" style="width: 100%; border-collapse: collapse; margin: 15px 0;">
     <thead>
-      <tr>
-        <th>ឆ្នាំសិក្សា</th>
-        <th>ចំនួនមុខវិជ្ជា</th>
-        <th>ក្រេឌីត</th>
-        <th>GPA</th>
+      <tr style="background-color: #f3f4f6; border-bottom: 2px solid #e5e7eb;">
+        <th style="padding: 10px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំសិក្សា</th>
+        <th style="padding: 10px; border: 1px solid #e5e7eb; text-align: center;">ចំនួនមុខវិជ្ជា</th>
+        <th style="padding: 10px; border: 1px solid #e5e7eb; text-align: center;">ក្រេឌីត</th>
+        <th style="padding: 10px; border: 1px solid #e5e7eb; text-align: center;">GPA</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>ឆ្នាំទី១</td>
-        <td>១១</td>
-        <td>២៥</td>
-        <td>៤.០០</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី១</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">១១</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២៥</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៤.០០</td>
       </tr>
       <tr>
-        <td>ឆ្នាំទី២</td>
-        <td>៨</td>
-        <td>២០</td>
-        <td>២.៥០</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី២</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៨</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២០</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២.៥០</td>
       </tr>
       <tr>
-        <td>ឆ្នាំទី៣</td>
-        <td>១៣</td>
-        <td>៣០</td>
-        <td>២.០០</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី៣</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">១៣</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៣០</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២.០០</td>
       </tr>
       <tr>
-        <td>ឆ្នាំទី៤</td>
-        <td>១១</td>
-        <td>៣១</td>
-        <td>៣.០០</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី៤</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">១១</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៣១</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៣.០០</td>
       </tr>
       <tr>
-        <td>ឆ្នាំទី៥</td>
-        <td>១០</td>
-        <td>២៩</td>
-        <td>៣.០០</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី៥</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">១០</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២៩</td>
+        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៣.០០</td>
       </tr>
     </tbody>
   </table>
+
+  <h3 style="font-size: 1.15em; font-weight: 700; color: #1f2937; margin-top: 25px; margin-bottom: 12px;">៤.២. បទពិសោធន៍នៃការចុះកម្មសិក្សា</h3>
+  
+  <p class="content-text">
+    ្នុងអំឡុងពេលសិក្សានៅជំនាញវិទ្យាសាស្ត្រទិន្នន័យ (Data Science) ខ្ញុំបានចុះកម្មសិក្សា និងធ្វើការស្រាវជ្រាវចំនួនពីរដំណាក់កាល នៅនាយកដ្ឋានបឋមសិក្សា នៃក្រសួងអប់រំ យុវជន និងកីឡា[cite: 1, 2, 4, 5]។ បទពិសោធន៍ទាំងនេះបានផ្តល់ឱ្យខ្ញុំនូវឱកាសអនុវត្តចំណេះដឹងដែលបានសិក្សានៅវិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC) ទៅលើការងារជាក់ស្តែងក្នុងវិស័យអប់រំ[cite: 1, 2, 4, 5]。
+  </p>
+
+  <h4 style="font-size: 1.05em; font-weight: 600; color: #374151; margin-top: 20px; margin-bottom: 8px;">ក. ការចុះកម្មសិក្សាក្នុងឆ្នាំសិក្សា ២០២៣–២០២៤</h4>
+  <p class="content-text">
+    ្នុងឆ្នាំសិក្សា ២០២៣–២០២៤ ខ្ញុំបានចុះកម្មសិក្សានៅនាយកដ្ឋានបឋមសិក្សា (PED) នៃក្រសួងអប់រំ យុវជន និងកីឡា ក្រោមការដឹកនាំរបស់បណ្ឌិត ឡើយ សុខា ជាសាស្ត្រាចារ្យណែនាំ និងបណ្ឌិត កាន់ ពុទ្ធី ជាអ្នកទទួលបន្ទុកស្ថាប័ន[cite: 1, 2]。 ប្រធានបទនៃការស្រាវជ្រាវរបស់ខ្ញុំគឺ «ការវិភាគទិន្នន័យនៃវគ្គបណ្តុះបណ្តាលសារឡើងវិញសម្រាប់កញ្ចប់សម្ភារៈថ្នាក់ដំបូង»[cite: 1]。
+  </p>
+
+  <!-- Image Container for Year 4 Internship -->
+  <div style="display: flex; gap: 15px; margin: 15px 0; justify-content: center; flex-wrap: wrap;">
+    <img src="internl4.png" alt="Year 4 Internship Cover" style="max-width: 48%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+    <img src="intern4.1.png" alt="Year 4 Internship Details" style="max-width: 48%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+  </div>
+
+  <p class="content-text">
+    ក្នុងការងារនេះ ខ្ញុំបានប្រើប្រាស់ Google Forms សម្រាប់ប្រមូលទិន្នន័យ និង Microsoft Excel សម្រាប់សម្អាត រៀបចំ និងវិភាគទិន្នន័យដែលពាក់ព័ន្ធនឹងវគ្គបណ្តុះបណ្តាលគ្រូបង្រៀនថ្នាក់ទី១ និងទី២[cite: 3]。 ការស្រាវជ្រាវនេះមានគោលបំណងសិក្សាអំពីប្រសិទ្ធភាពនៃការបណ្តុះបណ្តាលក្នុងការគាំទ្រដល់ការអាន ការសរសេរ និងការធ្វើលំហាត់របស់សិស្ស[cite: 3]。
+  </p>
+  <p class="content-text">
+    តាមរយៈកម្មសិក្សានេះ ខ្ញុំបានស្គាល់កាន់តែច្បាស់ពីការងារគ្រប់គ្រងទិន្នន័យ និងការប្រើប្រាស់ទិន្នន័យក្នុងការស្រាវជ្រាវផ្នែកអប់រំ[cite: 3]。 ខ្ញុំក៏បានយល់ថា ការប្រមូល រៀបចំ និងពិនិត្យទិន្នន័យឱ្យបានត្រឹមត្រូវ គឺជាផ្នែកសំខាន់នៃដំណើរការវិភាគទិន្នន័យ[cite: 3]。
+  </p>
+
+  <h4 style="font-size: 1.05em; font-weight: 600; color: #374151; margin-top: 20px; margin-bottom: 8px;">ខ. ការស្រាវជ្រាវសម្រាប់សារណាបញ្ចប់ការសិក្សា ឆ្នាំសិក្សា ២០២៤–២០២៥</h4>
+  <p class="content-text">
+    ្នុងឆ្នាំសិក្សា ២០២៤–២០២៥ ខ្ញុំបានបន្តធ្វើសារណាបញ្ចប់ការសិក្សាថ្នាក់វិស្វករ នៅនាយកដ្ឋានបឋមសិក្សា នៃក្រសួងអប់រំ យុវជន និងកីឡា ដោយមានបណ្ឌិត ឡើយ សុខា ជាសាស្ត្រាចារ្យដឹកនាំ និងបណ្ឌិត កាន់ ពុទ្ធី ជាអ្នកទទួលបន្ទុកស្ថាប័ន[cite: 4, 5]。 សារណានេះមានប្រធានបទ «ការវិភាគទិន្នន័យស្តីពីបច្ចុប្បន្នភាពនៃសាលាបឋម និងគ្រូបង្រៀនក្នុងរាជធានីភ្នំពេញ»[cite: 4, 5]。
+  </p>
+
+  <!-- Image Container for Year 5 Thesis -->
+  <div style="display: flex; gap: 15px; margin: 15px 0; justify-content: center; flex-wrap: wrap;">
+    <img src="internl5.png" alt="Engineering Thesis Cover" style="max-width: 48%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+    <img src="internl5.1.png" alt="Engineering Thesis Details" style="max-width: 48%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+  </div>
+
+  <p class="content-text">
+    ការស្រាវជ្រាវនេះផ្តោតលើស្ថានភាពសាលាបឋមសិក្សា ហេដ្ឋារចនាសម្ព័ន្ធ គ្រូបង្រៀន និងសិស្សក្នុងរាជធានីភ្នំពេញ ដោយប្រើប្រាស់ទិន្នន័យពីសាលាបឋមសិក្សាចំនួន ១៦៣ និងបុគ្គលិកចំនួន ៣.៧៨០ នាក់[cite: 6]。 ក្នុងការវិភាគ ខ្ញុំបានប្រើភាសាសរសេរកម្មវិធី Python និងបណ្ណាល័យដូចជា Pandas, NumPy, Matplotlib, Seaborn និង Plotly ដើម្បីរៀបចំ វិភាគ និងបង្ហាញទិន្នន័យ[cite: 6]。 ខ្ញុំក៏បានប្រើវិធីសាស្ត្រ K-Means និង Hierarchical Clustering ដើម្បីចាត់ថ្នាក់ទិន្នន័យ និងសិក្សាពីភាពប្រហាក់ប្រហែលរវាងក្រុមទិន្នន័យផងដែរ[cite: 6]。
+  </p>
+  <p class="content-text">
+    តាមរយៈការធ្វើសារណានេះ ខ្ញុំបានអនុវត្តចំណេះដឹងដែលបានសិក្សានៅ ITC ទៅលើទិន្នន័យជាក់ស្តែង និងស្វែងយល់ពីរបៀបប្រើប្រាស់លទ្ធផលវិភាគ ដើម្បីបង្ហាញស្ថានភាព និងភាពខុសគ្នារវាងសាលាបឋមសិក្សា[cite: 4, 5, 6]。 បទពិសោធន៍នេះក៏បានជួយឱ្យខ្ញុំយល់កាន់តែច្បាស់ពីដំណើរការស្រាវជ្រាវ ចាប់ពីការរៀបចំទិន្នន័យរហូតដល់ការបកស្រាយលទ្ធផល[cite: 6]。
+  </p>
 </div>
