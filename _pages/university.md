@@ -125,7 +125,7 @@ author_profile: false
     ក្នុងអំឡុងពេលសិក្សានៅវិទ្យាល័យ ខ្ញុំបានចាប់ផ្តើមគិតអំពីអនាគតរបស់ខ្លួន ដោយពិចារណាទាំងអ្វីដែលខ្លួនចង់បាន និងសមត្ថភាពដែលខ្លួនមាន។ ខ្ញុំបានកំណត់គោលដៅបន្តការសិក្សាផ្នែកវិស្វកម្មអគ្គិសនី ដោយសារមានមូលដ្ឋានគ្រឹះផ្នែករូបវិទ្យា និងមានចំណាប់អារម្មណ៍លើវិស័យនេះ។ ទន្ទឹមនឹងការកំណត់គោលដៅ ខ្ញុំក៏យល់ថា ការត្រៀមខ្លួនឱ្យបានល្អ និងការចាប់យកឱកាសដែលមាន គឺជាចំណុចសំខាន់សម្រាប់ឈានទៅសម្រេចគោលបំណងរបស់ខ្លួន។
   </p>
   <p class="content-text">
-    បន្ទាប់ពីពិចារណាលើទិសដៅសិក្សា ខ្ញុំបានសម្រេចចិត្តជ្រើសរើសវិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC) ជាជម្រើសទី១ ដោយសារវាជាគ្រឹះស្ថានឈានមុខគេក្នុងការបណ្តុះបណ្តាលវិស្វករនៅកម្ពុជា មានការទទួលស្គាល់ និងដៃគូសហការជាច្រើន។ ជាមួយគ្នានេះ ការណែនាំពីសិស្សច្បងនៅវិទ្យាល័យក៏ជាកត្តាមួយដែលបានជួយដល់ការសម្រេចចិត្តរបស់ខ្ញុំផងដែរ។
+    បន្ទាប់ពីពិចារណាលើទិសដៅសិក្សា ខ្ញុំបានសម្រេចចិត្តជ្រើសរើសវិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC) ជាជម្រើសទី១ ដោយសារវាជាគ្រឹះស្ថានឈានមុខគេក្នុងការបណ្តុះបណ្តាលវិស្វករនៅកម្ពុជា មានការទទួលស្គាល់ និងដៃគូសហការជាច្រើន។ ជាមួយគ្នานេះ ការណែនាំពីសិស្សច្បងនៅវិទ្យាល័យក៏ជាកត្តាមួយដែលបានជួយដល់ការសម្រេចចិត្តរបស់ខ្ញុំផងដែរ។
   </p>
   <p class="content-text">
     សម្រាប់ខ្ញុំ ការជ្រើសរើសជំនាញ និងគ្រឹះស្ថានសិក្សានៅពេលនោះ គឺជាជំហានដំបូងក្នុងការរៀបចំអនាគតរបស់ខ្លួន។ វាជាការសម្រេចចិត្តដែលផ្អែកលើចំណាប់អារម្មណ៍ ការពិចារណាលើសមត្ថភាព និងបំណងចង់បន្តអភិវឌ្ឍចំណេះដឹង ដើម្បីត្រៀមខ្លួនសម្រាប់ឱកាសសិក្សា និងការងារនាពេលអនាគត។
@@ -136,7 +136,7 @@ author_profile: false
 <div class="info-section">
   <h2 class="section-heading">២. ការប្រឡងចូល ITC និងការទទួលបានអាហារូបករណ៍</h2>
   <p class="content-text">
-    ក្នុងឆ្នាំ២០២០ នៅពេលដែលការរឹតត្បិតលើការធ្វើដំណើរ និងការជួបជុំត្រូវបានកាត់បន្ថយ ខ្ញុំបានចូលរួមប្រឡងចូលវិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC) សម្រាប់ឆ្នាំសិក្សា ២០២០–២០២១។ ការប្រឡងត្រូវបានរៀបចំតាមប្រព័ន្ធអនឡាញ ដោយមានវិធានការធានាគុណភាពនៃការប្រឡង។ កាលនោះ មានបេក្ខជនដាក់ពាក្យប្រឡងជាង ៤.០០០ នាក់ ប៉ុន្តែវិទ្យាស្ថានជ្រើសរើសនិស្សិតត្រឹមតែ ១.៨០០ នាក់ប៉ុណ្ណោះ។ ខ្ញុំបានប្រឡងជាប់ និងមានឈ្មោះចូលសិក្សាក្នុងកម្មវិធីវិស្វកម្មរយៈពេលប្រាំឆ្នាំ។
+    ្នុងឆ្នាំ២០២០ នៅពេលដែលការរឹតត្បិតលើការធ្វើដំណើរ និងការជួបជុំត្រូវបានកាត់បន្ថយ ខ្ញុំបានចូលរួមប្រឡងចូលវិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC) សម្រាប់ឆ្នាំសិក្សា ២០២០–២០២១។ ការប្រឡងត្រូវបានរៀបចំតាមប្រព័ន្ធអនឡាញ ដោយមានវិធានការធានាគុណភាពនៃការប្រឡង។ កាលនោះ មានបេក្ខជនដាក់ពាក្យប្រឡងជាង ៤.០០០ នាក់ ប៉ុន្តែវិទ្យាស្ថានជ្រើសរើសនិស្សិតត្រឹមតែ ១.៨០០ នាក់ប៉ុណ្ណោះ។ ខ្ញុំបានប្រឡងជាប់ និងមានឈ្មោះចូលសិក្សាក្នុងកម្មវិធីវិស្វកម្មរយៈពេលប្រាំឆ្នាំ។
   </p>
 
   <!-- រូបភាពបញ្ជីឈ្មោះប្រឡងជាប់ (Enrollment.JPG) -->
@@ -218,49 +218,49 @@ author_profile: false
     បន្ទាប់ពីបញ្ចប់ការសិក្សាមូលដ្ឋាន ខ្ញុំបានបន្តការសិក្សាជំនាញឯកទេសក្នុងរយៈពេលបីឆ្នាំ ដោយមានមុខវិជ្ជាសរុបចំនួន ៣៤ មុខវិជ្ជា ស្មើនឹង ៩០ ក្រេឌីត។ ដំណាក់កាលនេះផ្តោតលើការសិក្សាស៊ីជម្រៅទាក់ទងនឹងការដោះស្រាយបញ្ហា ការសិក្សាទ្រឹស្តី ការពិសោធន៍ និងការអនុវត្តចំណេះដឹងទៅលើបញ្ហាជាក់ស្តែង។ តាមរយៈការសិក្សាទាំងពីរដំណាក់កាលនេះ ខ្ញុំបានពង្រឹងមូលដ្ឋានចំណេះដឹង និងអភិវឌ្ឍសមត្ថភាពដែលចាំបាច់សម្រាប់ការសិក្សា និងការងារក្នុងវិស័យវិទ្យាសាស្ត្រទិន្នន័យ។
   </p>
   <p class="content-text">
-    ខាងក្រោមនេះ គឺជាសេចក្តីសង្ខេបលទ្ធផលសិក្សាប្រចាំឆ្នាំ (Academic Transcript)៖
+    ខាងក្រោមនេះ គឺជាសេចក្តីសង្ខេបលទ្ធផលសិក្សាប្រចាំឆ្នាំ(Academic Transcript)៖
   </p>
 
   <!-- តារាងសង្ខេបលទ្ធផលសិក្សា -->
-  <table class="academic-table" style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+  <table class="academic-table">
     <thead>
-      <tr style="background-color: #f3f4f6; border-bottom: 2px solid #e5e7eb;">
-        <th style="padding: 10px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំសិក្សា</th>
-        <th style="padding: 10px; border: 1px solid #e5e7eb; text-align: center;">ចំនួនមុខវិជ្ជា</th>
-        <th style="padding: 10px; border: 1px solid #e5e7eb; text-align: center;">ក្រេឌីត</th>
-        <th style="padding: 10px; border: 1px solid #e5e7eb; text-align: center;">GPA</th>
+      <tr>
+        <th>ឆ្នាំសិក្សា</th>
+        <th>ចំនួនមុខវិជ្ជា</th>
+        <th>ក្រេឌីត</th>
+        <th>GPA</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី១</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">១១</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២៥</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៤.០០</td>
+        <td>ឆ្នាំទី១</td>
+        <td>១១</td>
+        <td>២៥</td>
+        <td>៤.០០</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី២</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៨</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២០</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២.៥០</td>
+        <td>ឆ្នាំទី២</td>
+        <td>៨</td>
+        <td>២០</td>
+        <td>២.៥០</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី៣</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">១៣</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៣០</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២.០០</td>
+        <td>ឆ្នាំទី៣</td>
+        <td>១៣</td>
+        <td>៣០</td>
+        <td>២.០០</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី៤</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">១១</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៣១</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៣.០០</td>
+        <td>ឆ្នាំទី៤</td>
+        <td>១១</td>
+        <td>៣១</td>
+        <td>៣.០០</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">ឆ្នាំទី៥</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">១០</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">២៩</td>
-        <td style="padding: 8px; border: 1px solid #e5e7eb; text-align: center;">៣.០០</td>
+        <td>ឆ្នាំទី៥</td>
+        <td>១០</td>
+        <td>២៩</td>
+        <td>៣.០០</td>
       </tr>
     </tbody>
   </table>
@@ -268,7 +268,7 @@ author_profile: false
   <h3 style="font-size: 1.15em; font-weight: 700; color: #1f2937; margin-top: 25px; margin-bottom: 12px;">៤.២. បទពិសោធន៍នៃការចុះកម្មសិក្សា</h3>
   
   <p class="content-text">
-    ្នុងអំឡុងពេលសិក្សានៅជំនាញវិទ្យាសាស្ត្រទិន្នន័យ (Data Science) ខ្ញុំបានចុះកម្មសិក្សា និងធ្វើការស្រាវជ្រាវចំនួនពីរដំណាក់កាល នៅនាយកដ្ឋានបឋមសិក្សា នៃក្រសួងអប់រំ យុវជន និងកីឡា[cite: 1, 2, 4, 5]។ បទពិសោធន៍ទាំងនេះបានផ្តល់ឱ្យខ្ញុំនូវឱកាសអនុវត្តចំណេះដឹងដែលបានសិក្សានៅវិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC) ទៅលើការងារជាក់ស្តែងក្នុងវិស័យអប់រំ[cite: 1, 2, 4, 5]。
+    ្នុងអំឡុងពេលសិក្សានៅជំនាញវិទ្យាសាស្ត្រទិន្នន័យ (Data Science) ខ្ញុំបានចុះកម្មសិក្សា និងធ្វើការស្រាវជ្រាវចំនួនពីរដំណាក់កាល នៅនាយកដ្ឋានបឋមសិក្សា នៃក្រសួងអប់រំ យុវជន និងកីឡា[cite: 1, 2, 4, 5]。 បទពិសោធន៍ទាំងនេះបានផ្តល់ឱ្យខ្ញុំនូវឱកាសអនុវត្តចំណេះដឹងដែលបានសិក្សានៅវិទ្យាស្ថានបច្ចេកវិទ្យាកម្ពុជា (ITC) ទៅលើការងារជាក់ស្តែងក្នុងវិស័យអប់រំ[cite: 1, 2, 4, 5]。
   </p>
 
   <h4 style="font-size: 1.05em; font-weight: 600; color: #374151; margin-top: 20px; margin-bottom: 8px;">ក. ការចុះកម្មសិក្សាក្នុងឆ្នាំសិក្សា ២០២៣–២០២៤</h4>
@@ -278,8 +278,14 @@ author_profile: false
 
   <!-- Image Container for Year 4 Internship -->
   <div style="display: flex; gap: 15px; margin: 15px 0; justify-content: center; flex-wrap: wrap;">
-    <img src="internl4.png" alt="Year 4 Internship Cover" style="max-width: 48%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
-    <img src="intern4.1.png" alt="Year 4 Internship Details" style="max-width: 48%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+    <div style="max-width: 48%; text-align: center;">
+      <img src="{{ '/images/internl4.png' | relative_url }}" alt="Year 4 Internship Cover" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+      <div class="img-caption">ទំព័រគម្របរបាយការណ៍ឆ្នាំទី៤</div>
+    </div>
+    <div style="max-width: 48%; text-align: center;">
+      <img src="{{ '/images/intern4.1.png' | relative_url }}" alt="Year 4 Internship Details" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+      <div class="img-caption">ព័ត៌មានលម្អិតរបាយការណ៍ឆ្នាំទី៤</div>
+    </div>
   </div>
 
   <p class="content-text">
@@ -296,8 +302,14 @@ author_profile: false
 
   <!-- Image Container for Year 5 Thesis -->
   <div style="display: flex; gap: 15px; margin: 15px 0; justify-content: center; flex-wrap: wrap;">
-    <img src="internl5.png" alt="Engineering Thesis Cover" style="max-width: 48%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
-    <img src="internl5.1.png" alt="Engineering Thesis Details" style="max-width: 48%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+    <div style="max-width: 48%; text-align: center;">
+      <img src="{{ '/images/internl5.png' | relative_url }}" alt="Engineering Thesis Cover" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+      <div class="img-caption">ទំព័រគម្របសារណាចុងក្រោយឆ្នាំទី៥</div>
+    </div>
+    <div style="max-width: 48%; text-align: center;">
+      <img src="{{ '/images/internl5.1.png' | relative_url }}" alt="Engineering Thesis Details" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #e5e7eb;">
+      <div class="img-caption">ព័ត៌មានលម្អិតសារណាចុងក្រោយឆ្នាំទី៥</div>
+    </div>
   </div>
 
   <p class="content-text">
